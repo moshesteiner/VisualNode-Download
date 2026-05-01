@@ -11,3 +11,8 @@ Features:
 - Supports int and string lists
 
 Download the latest version from the Releases page.
+
+
+
+
+![Downloads](https://img.shields.io/github/downloads/moshesteiner/VisualNode-Download/total)
